@@ -1,0 +1,16 @@
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Modelos\bin\Debug\net8.0\VentasEnLinea.Modelos.deps.json
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Modelos\bin\Debug\net8.0\VentasEnLinea.Modelos.dll
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Modelos\bin\Debug\net8.0\VentasEnLinea.Modelos.pdb
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Modelos\bin\Debug\net8.0\VentasEnLinea.Utilidades.dll
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Modelos\bin\Debug\net8.0\VentasEnLinea.Utilidades.pdb
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Modelos\obj\Debug\net8.0\VentasEnLinea.Modelos.csproj.AssemblyReference.cache
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Modelos\obj\Debug\net8.0\VentasEnLinea.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Modelos\obj\Debug\net8.0\VentasEnLinea.Modelos.AssemblyInfoInputs.cache
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Modelos\obj\Debug\net8.0\VentasEnLinea.Modelos.AssemblyInfo.cs
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Modelos\obj\Debug\net8.0\VentasEnLinea.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Modelos\obj\Debug\net8.0\VentasEnLinea.Modelos.sourcelink.json
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Modelos\obj\Debug\net8.0\VentasEn.E2FB97CD.Up2Date
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Modelos\obj\Debug\net8.0\VentasEnLinea.Modelos.dll
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Modelos\obj\Debug\net8.0\refint\VentasEnLinea.Modelos.dll
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Modelos\obj\Debug\net8.0\VentasEnLinea.Modelos.pdb
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Modelos\obj\Debug\net8.0\ref\VentasEnLinea.Modelos.dll

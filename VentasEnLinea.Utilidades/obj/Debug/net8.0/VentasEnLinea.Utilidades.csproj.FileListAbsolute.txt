@@ -1,0 +1,13 @@
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Utilidades\bin\Debug\net8.0\VentasEnLinea.Utilidades.deps.json
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Utilidades\bin\Debug\net8.0\VentasEnLinea.Utilidades.dll
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Utilidades\bin\Debug\net8.0\VentasEnLinea.Utilidades.pdb
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Utilidades\obj\Debug\net8.0\VentasEnLinea.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Utilidades\obj\Debug\net8.0\VentasEnLinea.Utilidades.AssemblyInfoInputs.cache
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Utilidades\obj\Debug\net8.0\VentasEnLinea.Utilidades.AssemblyInfo.cs
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Utilidades\obj\Debug\net8.0\VentasEnLinea.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Utilidades\obj\Debug\net8.0\VentasEnLinea.Utilidades.sourcelink.json
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Utilidades\obj\Debug\net8.0\VentasEnLinea.Utilidades.dll
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Utilidades\obj\Debug\net8.0\refint\VentasEnLinea.Utilidades.dll
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Utilidades\obj\Debug\net8.0\VentasEnLinea.Utilidades.pdb
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Utilidades\obj\Debug\net8.0\ref\VentasEnLinea.Utilidades.dll
+C:\Users\svcar\Downloads\VentasEnLinea\VentasEnLinea.Utilidades\obj\Debug\net8.0\VentasEnLinea.Utilidades.csproj.AssemblyReference.cache
