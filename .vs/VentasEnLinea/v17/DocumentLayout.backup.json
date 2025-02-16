@@ -1,7 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\svcar\\Downloads\\VentasEnLinea\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DEFAFB1-6FB4-49D6-B002-3FB99A76821D}|VentasEnLinea\\VentasEnLinea.csproj|c:\\users\\svcar\\downloads\\inventario\\inventario\\ventasenlinea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DEFAFB1-6FB4-49D6-B002-3FB99A76821D}|VentasEnLinea\\VentasEnLinea.csproj|solutionrelative:ventasenlinea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED514FC8-E5E3-45D4-970C-9035D4EBEC82}|VentasEnLinea.AcessoDatos\\VentasEnLinea.AcessoDatos.csproj|c:\\users\\svcar\\downloads\\inventario\\inventario\\ventasenlinea.acessodatos\\repositorio\\unidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED514FC8-E5E3-45D4-970C-9035D4EBEC82}|VentasEnLinea.AcessoDatos\\VentasEnLinea.AcessoDatos.csproj|solutionrelative:ventasenlinea.acessodatos\\repositorio\\unidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED514FC8-E5E3-45D4-970C-9035D4EBEC82}|VentasEnLinea.AcessoDatos\\VentasEnLinea.AcessoDatos.csproj|c:\\users\\svcar\\downloads\\inventario\\inventario\\ventasenlinea.acessodatos\\repositorio\\irepositorio\\iunidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED514FC8-E5E3-45D4-970C-9035D4EBEC82}|VentasEnLinea.AcessoDatos\\VentasEnLinea.AcessoDatos.csproj|solutionrelative:ventasenlinea.acessodatos\\repositorio\\irepositorio\\iunidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED514FC8-E5E3-45D4-970C-9035D4EBEC82}|VentasEnLinea.AcessoDatos\\VentasEnLinea.AcessoDatos.csproj|c:\\users\\svcar\\downloads\\inventario\\inventario\\ventasenlinea.acessodatos\\repositorio\\irepositorio\\ibodegarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED514FC8-E5E3-45D4-970C-9035D4EBEC82}|VentasEnLinea.AcessoDatos\\VentasEnLinea.AcessoDatos.csproj|solutionrelative:ventasenlinea.acessodatos\\repositorio\\irepositorio\\ibodegarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED514FC8-E5E3-45D4-970C-9035D4EBEC82}|VentasEnLinea.AcessoDatos\\VentasEnLinea.AcessoDatos.csproj|c:\\users\\svcar\\downloads\\inventario\\inventario\\ventasenlinea.acessodatos\\repositorio\\bodegarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED514FC8-E5E3-45D4-970C-9035D4EBEC82}|VentasEnLinea.AcessoDatos\\VentasEnLinea.AcessoDatos.csproj|solutionrelative:ventasenlinea.acessodatos\\repositorio\\bodegarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED514FC8-E5E3-45D4-970C-9035D4EBEC82}|VentasEnLinea.AcessoDatos\\VentasEnLinea.AcessoDatos.csproj|c:\\users\\svcar\\downloads\\inventario\\inventario\\ventasenlinea.acessodatos\\repositorio\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED514FC8-E5E3-45D4-970C-9035D4EBEC82}|VentasEnLinea.AcessoDatos\\VentasEnLinea.AcessoDatos.csproj|solutionrelative:ventasenlinea.acessodatos\\repositorio\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED514FC8-E5E3-45D4-970C-9035D4EBEC82}|VentasEnLinea.AcessoDatos\\VentasEnLinea.AcessoDatos.csproj|c:\\users\\svcar\\downloads\\inventario\\inventario\\ventasenlinea.acessodatos\\repositorio\\irepositorio\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED514FC8-E5E3-45D4-970C-9035D4EBEC82}|VentasEnLinea.AcessoDatos\\VentasEnLinea.AcessoDatos.csproj|solutionrelative:ventasenlinea.acessodatos\\repositorio\\irepositorio\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED514FC8-E5E3-45D4-970C-9035D4EBEC82}|VentasEnLinea.AcessoDatos\\VentasEnLinea.AcessoDatos.csproj|c:\\users\\svcar\\downloads\\inventario\\inventario\\ventasenlinea.acessodatos\\ventasenlinea.acessodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED514FC8-E5E3-45D4-970C-9035D4EBEC82}|VentasEnLinea.AcessoDatos\\VentasEnLinea.AcessoDatos.csproj|solutionrelative:ventasenlinea.acessodatos\\ventasenlinea.acessodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -17,11 +50,112 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea\\Program.cs",
+              "RelativeDocumentMoniker": "VentasEnLinea\\Program.cs",
+              "ToolTip": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea\\Program.cs",
+              "RelativeToolTip": "VentasEnLinea\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:35:15.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnidadTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.AcessoDatos\\Repositorio\\UnidadTrabajo.cs",
+              "RelativeDocumentMoniker": "VentasEnLinea.AcessoDatos\\Repositorio\\UnidadTrabajo.cs",
+              "ToolTip": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.AcessoDatos\\Repositorio\\UnidadTrabajo.cs",
+              "RelativeToolTip": "VentasEnLinea.AcessoDatos\\Repositorio\\UnidadTrabajo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:23:47.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUnidadTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.AcessoDatos\\Repositorio\\Irepositorio\\IUnidadTrabajo.cs",
+              "RelativeDocumentMoniker": "VentasEnLinea.AcessoDatos\\Repositorio\\Irepositorio\\IUnidadTrabajo.cs",
+              "ToolTip": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.AcessoDatos\\Repositorio\\Irepositorio\\IUnidadTrabajo.cs",
+              "RelativeToolTip": "VentasEnLinea.AcessoDatos\\Repositorio\\Irepositorio\\IUnidadTrabajo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:12:19.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BodegaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.AcessoDatos\\Repositorio\\BodegaRepositorio.cs",
+              "RelativeDocumentMoniker": "VentasEnLinea.AcessoDatos\\Repositorio\\BodegaRepositorio.cs",
+              "ToolTip": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.AcessoDatos\\Repositorio\\BodegaRepositorio.cs",
+              "RelativeToolTip": "VentasEnLinea.AcessoDatos\\Repositorio\\BodegaRepositorio.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T00:16:47.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBodegaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.AcessoDatos\\Repositorio\\Irepositorio\\IBodegaRepositorio.cs",
+              "RelativeDocumentMoniker": "VentasEnLinea.AcessoDatos\\Repositorio\\Irepositorio\\IBodegaRepositorio.cs",
+              "ToolTip": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.AcessoDatos\\Repositorio\\Irepositorio\\IBodegaRepositorio.cs",
+              "RelativeToolTip": "VentasEnLinea.AcessoDatos\\Repositorio\\Irepositorio\\IBodegaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T00:08:27.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repositorio.cs",
+              "DocumentMoniker": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.AcessoDatos\\Repositorio\\Repositorio.cs",
+              "RelativeDocumentMoniker": "VentasEnLinea.AcessoDatos\\Repositorio\\Repositorio.cs",
+              "ToolTip": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.AcessoDatos\\Repositorio\\Repositorio.cs",
+              "RelativeToolTip": "VentasEnLinea.AcessoDatos\\Repositorio\\Repositorio.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T22:30:04.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.AcessoDatos\\Repositorio\\Irepositorio\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "VentasEnLinea.AcessoDatos\\Repositorio\\Irepositorio\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.AcessoDatos\\Repositorio\\Irepositorio\\IRepositorio.cs",
+              "RelativeToolTip": "VentasEnLinea.AcessoDatos\\Repositorio\\Irepositorio\\IRepositorio.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:38:39.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VentasEnLinea.AcessoDatos.csproj",
+              "DocumentMoniker": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.AcessoDatos\\VentasEnLinea.AcessoDatos.csproj",
+              "RelativeDocumentMoniker": "VentasEnLinea.AcessoDatos\\VentasEnLinea.AcessoDatos.csproj",
+              "ToolTip": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.AcessoDatos\\VentasEnLinea.AcessoDatos.csproj",
+              "RelativeToolTip": "VentasEnLinea.AcessoDatos\\VentasEnLinea.AcessoDatos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-15T18:32:27.521Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

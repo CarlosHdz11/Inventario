@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EqVOOu/mzDk=",
+  "dgSpecHash": "Lluct46i2Qs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\svcar\\Downloads\\VentasEnLinea\\VentasEnLinea.Utilidades\\VentasEnLinea.Utilidades.csproj",
+  "projectFilePath": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.Utilidades\\VentasEnLinea.Utilidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\svcar\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.1.1\\microsoft.aspnetcore.authentication.2.1.1.nupkg.sha512",
     "C:\\Users\\svcar\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.1\\microsoft.aspnetcore.authentication.abstractions.2.1.1.nupkg.sha512",
@@ -60,7 +60,8 @@
     "C:\\Users\\svcar\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
     "C:\\Users\\svcar\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
     "C:\\Users\\svcar\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
-    "C:\\Users\\svcar\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\svcar\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\svcar\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
   ],
   "logs": [
     {

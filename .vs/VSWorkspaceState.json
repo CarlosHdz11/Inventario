@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\VentasEnLinea.AcessoDatos",
-    "\\VentasEnLinea.AcessoDatos\\Data"
+    "\\VentasEnLinea.AcessoDatos\\Data",
+    "\\VentasEnLinea.AcessoDatos\\Repositorio"
   ],
   "SelectedNode": "\\VentasEnLinea.sln",
   "PreviewInSolutionExplorer": false

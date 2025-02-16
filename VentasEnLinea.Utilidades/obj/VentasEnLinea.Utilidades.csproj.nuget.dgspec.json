@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\svcar\\Downloads\\VentasEnLinea\\VentasEnLinea.Utilidades\\VentasEnLinea.Utilidades.csproj": {}
+    "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.Utilidades\\VentasEnLinea.Utilidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\svcar\\Downloads\\VentasEnLinea\\VentasEnLinea.Utilidades\\VentasEnLinea.Utilidades.csproj": {
+    "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.Utilidades\\VentasEnLinea.Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\svcar\\Downloads\\VentasEnLinea\\VentasEnLinea.Utilidades\\VentasEnLinea.Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.Utilidades\\VentasEnLinea.Utilidades.csproj",
         "projectName": "VentasEnLinea.Utilidades",
-        "projectPath": "C:\\Users\\svcar\\Downloads\\VentasEnLinea\\VentasEnLinea.Utilidades\\VentasEnLinea.Utilidades.csproj",
+        "projectPath": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.Utilidades\\VentasEnLinea.Utilidades.csproj",
         "packagesPath": "C:\\Users\\svcar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\svcar\\Downloads\\VentasEnLinea\\VentasEnLinea.Utilidades\\obj\\",
+        "outputPath": "C:\\Users\\svcar\\Downloads\\Inventario\\Inventario\\VentasEnLinea.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -79,12 +79,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.200, 9.0.200]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

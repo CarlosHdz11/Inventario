@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VentasEnLinea.AcessoDatos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97523d292db7b8b614660f9a651ecfc72bfd3899")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cfecbd0281ab0fb30df687b02a7d96a09587a48")]
 [assembly: System.Reflection.AssemblyProductAttribute("VentasEnLinea.AcessoDatos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VentasEnLinea.AcessoDatos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
